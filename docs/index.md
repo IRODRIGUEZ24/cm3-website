@@ -31,6 +31,6 @@ def add_two(x, y):
 
 Here is an image:
 
-![cute dog](https://i.imgur.com/dY93WHQ.jpeg)
+![sunset](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abposters.com%2Fmarketplace%2Fbeach-sunset-v85894&psig=AOvVaw0DGdKSSiTIQtTQ-ourANRS&ust=1715702986628000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDdk-6Bi4YDFQAAAAAdAAAAABAE)
 
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
