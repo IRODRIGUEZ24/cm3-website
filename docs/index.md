@@ -1,8 +1,8 @@
 ---
-title: Home Page
+title: Isabela`s Home Page
 ---
 
-This is the home page of Rahul's CM3 website.
+This is the home page of Isabela's CM3 website. Welcome to my attempt of computer science. 
 
 ## A smaller level Heading
 
@@ -12,7 +12,7 @@ Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to ita
 
 This is another para.
 
-In this one we show some lists. just start the lista on the next line after hitting one return:
+In this one we show some lists. just start the list on the next line after hitting one return:
 - an item
 - another item
 
