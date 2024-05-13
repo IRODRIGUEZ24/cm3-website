@@ -4,9 +4,9 @@ title: Isabela`s Home Page
 
 This is the home page of Isabela's CM3 website. Welcome to my attempt of computer science. 
 
-## A smaller level Heading
+## Who is Isabela?
 
-### And even smaller
+### Honestly, idk
 
 Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
 
